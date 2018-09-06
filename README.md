@@ -1,5 +1,5 @@
 # whoami_vpn_killswitch.bat
-VPN Kill Switch using route.exe for Windows Batch File
+**VPN Kill Switch using route.exe for Windows**
 
 This kill switch uses route.exe to set a static route to the vpn server and deletes the default route to protect your Windows machine from exposing your true IP if the VPN connection were to drop.
 Works with any version of Windows.
