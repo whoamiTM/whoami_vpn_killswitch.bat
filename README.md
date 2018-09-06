@@ -10,7 +10,7 @@ Works with any version of Windows.
 # How To Use:
 
 **To enable the kill switch.**
-- Open the .bat (if you have UAC enabled it prompt for permission to run).
+- Open the .bat (if you have UAC enabled it will prompt for permission to run).
 
 - Confirm your routers default gateway IP is desplayed correctly. If not Press "4" to enter it manually.
 
