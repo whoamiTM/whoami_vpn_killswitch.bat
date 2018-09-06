@@ -5,7 +5,7 @@ This kill switch uses route.exe to set a static route to the vpn server and dele
 Works with any version of Windows.
 
 # Change Log:
-- V1.0 Added option for setting a static route to VPN server.
+- v1.0 Added option for setting a static route to VPN server.
 
 # How To Use:
 
